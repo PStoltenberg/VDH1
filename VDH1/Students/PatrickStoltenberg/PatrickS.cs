@@ -8,6 +8,6 @@ namespace VDH1.Students.PatrickStoltenberg
 {
     class PatrickS
     {
-
+        // Hej.
     }
 }
