@@ -9,5 +9,6 @@ namespace VDH1.Students.PatrickStoltenberg
     class PatrickS
     {
         // Hej.
+        public string FullName { get => "Patrick Stoltenberg" }
     }
 }
